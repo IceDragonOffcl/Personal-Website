@@ -1,7 +1,7 @@
 const fetch = require('isomorphic-unfetch')
 
-let key1 = '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';
-let key2 = 'RjyonDEVH1Hpaq0NSrKyMWuLa1wmPK4KbGqv';
+let key1 = 'ghp_VzcC7gx0GXzOVP1';
+let key2 = '7kIiTmNtBqj2sOC0S0zxD';
 
 export default async (req, res) => {
     let _ = await (await fetch('https://api.github.com/users/IceDragonOffcl/repos', {
