@@ -16,7 +16,7 @@ export default function Home() {
               <div className="flex flex-col lg:justify-start justify-center items-center lg:items-start mt-5 lg:mt-0 w-full">
                 <div className="flex items-center">
                 <p className="flex items-center text-white text-4xl font-semibold">
-                  Umut Bayraktar
+                  Enes Gülsoy
                 </p>
                   <Tippy content={`Online`} animation="shift-away" arrow={false}>
                     <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
@@ -46,7 +46,7 @@ I am a professional javascript programmer, I have been developing an artificial 
 
 
         <div className="py-20">
-        <p className="text-3xl text-white font-semibold">GitHub Repositories</p>
+        <p className="text-3xl text-white font-semibold">GitHub Projelerim</p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 w-full gap-4 items-center mt-2">
           {_repositories
