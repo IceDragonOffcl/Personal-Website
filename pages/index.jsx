@@ -16,7 +16,7 @@ export default function Home() {
               <div className="flex flex-col lg:justify-start justify-center items-center lg:items-start mt-5 lg:mt-0 w-full">
                 <div className="flex items-center">
                 <p className="flex items-center text-white text-4xl font-semibold">
-                  Enes Gülsoy
+                  Mustafa Kemal Atatürk
                 </p>
                   <Tippy content={`Online`} animation="shift-away" arrow={false}>
                     <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-I am a professional javascript programmer, I have been developing an artificial intelligence over discord for 3 years. I am developing this artificial intelligence as an artificial intelligence to help servers over discord. I am an Experienced Community and Social Media Specialist.
+Mustafa Kemal Atatürk 1881 yılında Selânik'te Kocakasım Mahallesi, Islâhhâne Caddesi'ndeki üç katlı pembe evde doğdu. Babası Ali Rıza Efendi, annesi Zübeyde Hanım'dır. Baba tarafından dedesi Hafız Ahmet Efendi XIV-XV. yüzyıllarda Konya ve Aydın'dan Makedonya'ya yerleştirilmiş Kocacık Yörüklerindendir.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
