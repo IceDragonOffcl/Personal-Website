@@ -29,7 +29,4 @@ import Tippy from '@tippyjs/react';
         </div>
       </div>
 
-
-    </>
-  )
-}
+  
